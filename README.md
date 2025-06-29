@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 ### 🎓 Education
 
 - **Hacktiv8 Full-Time Data Science Bootcamp**  
-  *12-week intensive training in Python, SQL, EDA, ML, and model deployment*  
+  *12-week intensive training program covering Python, SQL, EDA, Machine Learning, NLP, and Deep Learning*
 
 ---
 
