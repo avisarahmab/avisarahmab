@@ -27,9 +27,9 @@ Here are some of the projects I've worked on:
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
+| 📈 `EDA Dashboard` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Tableau, matplotlib |
 | 📊 `Sales Forecasting` | Time series model for predicting product demand | Python, SARIMAX, Plotly |
-| 🧠 `Customer Churn Prediction` | Classification model to identify potential churn | Python, Scikit-learn, Streamlit |
-| 📈 `EDA Dashboard` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Tableau |
+| 🧠 `Laptop Price Prediction Based on Specifications` | Regression model to help estimate fair pricing and support better purchase decisions. | Python, Scikit-learn, Streamlit |
 | 🤖 `NLP Text Classifier` | Multiclass text classification using TF-IDF and SVM | Python, Scikit-learn, NLTK |
 | 🖼️ `Image Classifier` | CNN model for plant disease classification | Python, TensorFlow, OpenCV |
 
