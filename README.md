@@ -21,8 +21,8 @@
 ---
 
 ### 📫 Get in Touch
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 your.email@example.com
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/))
+- 📧 avisarahma08@gmail.com
 
 ---
 
