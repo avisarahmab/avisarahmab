@@ -6,11 +6,8 @@
 
 ---
 
-### 🛠 Tech Stack
----
-
 ### 💡 Data Analysis
-- **Techniques**: Exploratory Data Analysis (EDA), Time Series Analysis, Forecasting  
+- **Techniques**: Exploratory Data Analysis (EDA)
 - **Tools & Platforms**: Python, SQL, PostgreSQL, Google BigQuery  
 - **Libraries**: Pandas, NumPy, Scipy, Feature-Engine  
 
@@ -22,8 +19,19 @@
 
 ### 📊 Data Visualization & Dashboarding
 - **Tools**: Tableau, Kibana  
-- **Libraries**: Matplotlib, Seaborn  
-- **Others**: ElasticSearch, Asana (Project Management), Agile Scrum  
+- **Libraries**: Matplotlib, Seaborn, Plotly
+
+---
+
+### 🧠 Tech Skills & Tools
+
+- **Languages & Query**: Python, SQL  
+- **Data Analysis & Processing**: Pandas, NumPy, Scipy, Feature-Engine, Google BigQuery, PostgreSQL  
+- **Machine Learning & Modeling**: Scikit-learn, TensorFlow, Regression, Random Forest, Decision Trees, Clustering, Neural Networks (ANN, CNN), Dimensionality Reduction  
+- **Techniques**: Exploratory Data Analysis (EDA), Time Series Analysis, Forecasting, NLP, Computer Vision  
+- **Visualization**: Tableau, Kibana, Matplotlib, Seaborn  
+- **Deployment & Apps**: Streamlit  
+- **Tools & Platforms**: ElasticSearch, Asana, Agile Scrum, Hugging Face
 
 ---
 
