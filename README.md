@@ -7,9 +7,23 @@
 ---
 
 ### 🛠 Tech Stack
-- Languages: **Python**, **SQL**
-- Tools: **Jupyter Notebook**, **Tableau**, **Excel**, **Git**, **VS Code**
-- Libraries: **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, **Seaborn**
+---
+
+### 💡 Data Analysis
+- **Techniques**: Exploratory Data Analysis (EDA), Time Series Analysis, Forecasting  
+- **Tools & Platforms**: Python, SQL, PostgreSQL, Google BigQuery  
+- **Libraries**: Pandas, NumPy, Scipy, Feature-Engine  
+
+### 🤖 Data Science & Machine Learning
+- **Techniques**: Machine Learning, NLP, Computer Vision, Dimensionality Reduction  
+- **Algorithms**: Regression, Random Forest, Decision Trees, Clustering, Neural Networks  
+- **Libraries/Frameworks**: Scikit-learn, TensorFlow, Hugging Face  
+- **Deployment & Apps**: Streamlit  
+
+### 📊 Data Visualization & Dashboarding
+- **Tools**: Tableau, Kibana  
+- **Libraries**: Matplotlib, Seaborn  
+- **Others**: ElasticSearch, Asana (Project Management), Agile Scrum  
 
 ---
 
