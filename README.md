@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Aviss!
+# 👋 Hi there, I'm Avisa!
 
-Welcome to my GitHub profile — a space where I explore data, share projects, and learn out loud 🚀
+Welcome to my GitHub profile. This is a space where I explore data, share projects, and keep learning every day 🚀
 
 ---
 
@@ -46,8 +46,9 @@ Here are some of the projects I've worked on:
 
 ### 📫 Contact Me
 
-- 📧 Email: [avisarahma08@gmail.com] 
-- 💼 LinkedIn: [linkedin.com/in/avisa-rahma-benedicta-7b354a200]
+- 📧 Email: [avisarahma08@gmail.com]
+- 💼 LinkedIn: [Connect on LinkedIn] (https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
+
 <!--
 - 🌐 Portfolio / Website (optional): [your-portfolio.com](https://your-portfolio.com)
 -->
