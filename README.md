@@ -1,8 +1,28 @@
 ## Hi there 👋 I'm Avisa
 
-🔍 I’m passionate about data analytics and data science turning raw data into meaningful insights that drive better decisions.  
-📊 Skilled in data analysis, visualization, and machine learning using Python, SQL, and Tableau.  
-☕ Fueled by curiosity, code, and lots of coffee.
+---
+
+### 👋 About Me
+
+Hi! I'm Avisa an aspiring **Data Analyst** and **Data Scientist** who enjoys turning data into insights and actions.  
+I have experience in data analysis, visualization, and building predictive models using various tools and techniques.
+
+I recently completed the **Full-Time Data Science Bootcamp at Hacktiv8**, covering topics such as **exploratory data analysis**, **forecasting**, and applied machine learning.  
+I’ve also explored deep learning applications such as **natural language processing** and **computer vision** using neural networks like **ANN** and **CNN**.
+
+I'm passionate about solving problems through data, continuously learning new skills, and collaborating with others.  
+Always open to new connections and **excited to collaborate on meaningful data projects**!
+
+Let’s connect and explore how data can make a difference!
+
+---
+
+### 👋 About Me
+
+Hi! I'm Avisa an aspiring Data Analyst and Data Scientist who enjoys turning data into insights.  
+I work with Python and SQL for data analysis, visualization, and predictive modeling.  
+My learning includes NLP, computer vision, and deep learning using ANN and CNN.  
+Excited to keep learning and open to collaborating on impactful data projects!
 
 ---
 
@@ -43,7 +63,7 @@
 ---
 
 ### 📫 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)
 - 📧 avisarahma08@gmail.com
 
 ---
