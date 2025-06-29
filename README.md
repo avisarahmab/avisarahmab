@@ -50,8 +50,8 @@ Here are some of the projects I've worked on:
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
+- 📧 Email: [avisarahma08@gmail.com]  
+- 💼 LinkedIn: [linkedin.com/in/avisa-rahma-benedicta-7b354a200](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
 
 <!--
 - 🌐 Portfolio / Website (optional): [your-portfolio.com](https://your-portfolio.com)
@@ -79,6 +79,14 @@ Let’s turn data into something meaningful.
 ### 📊 Data Visualization & Dashboarding
 - **Tools**: Tableau, Kibana  
 - **Libraries**: Matplotlib, Seaborn, Plotly
+
+---
+
+### 🧠 Tech Skills
+
+- 🐍 **Languages & Database**: Python, SQL, PostgreSQL  
+- 📊 **Data Analysis & Visualization**: Pandas, NumPy, Tableau, Seaborn, Matplotlib  
+- 🤖 **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, ANN, CNN, Clustering, Regression
 
 ---
 
