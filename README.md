@@ -47,7 +47,7 @@ Here are some of the projects I've worked on:
 ### 📫 Contact Me
 
 - 📧 Email: [avisarahma08@gmail.com]
-- 💼 LinkedIn: [Connect on LinkedIn] (https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
 
 <!--
 - 🌐 Portfolio / Website (optional): [your-portfolio.com](https://your-portfolio.com)
