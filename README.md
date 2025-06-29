@@ -13,15 +13,11 @@ Welcome to my GitHub profile — a space where I explore data, share projects, a
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Skills
 
-- **Languages & Query**: Python, SQL  
-- **Data Analysis & Processing**: Pandas, NumPy, Scipy, Feature-Engine, Google BigQuery, PostgreSQL  
-- **Machine Learning**: Scikit-learn, TensorFlow, Regression, Clustering, Decision Trees, ANN, CNN  
-- **Techniques**: EDA, Time Series Forecasting, NLP, Computer Vision  
-- **Visualization**: Tableau, Kibana, Matplotlib, Seaborn  
-- **Deployment & Apps**: Streamlit  
-- **Tools & Platforms**: ElasticSearch, Hugging Face, Asana, Agile Scrum
+- 🐍 **Languages & Database**: Python, SQL, PostgreSQL  
+- 📊 **Data Analysis & Visualization**: Pandas, NumPy, Tableau, Seaborn, Matplotlib  
+- 🤖 **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, ANN, CNN, Clustering, Regression
 
 ---
 
@@ -50,9 +46,8 @@ Here are some of the projects I've worked on:
 
 ### 📫 Contact Me
 
-- 📧 Email: [avisarahma08@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/avisa-rahma-benedicta-7b354a200](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
-
+- 📧 Email: [avisarahma08@gmail.com] 
+- 💼 LinkedIn: [linkedin.com/in/avisa-rahma-benedicta-7b354a200]
 <!--
 - 🌐 Portfolio / Website (optional): [your-portfolio.com](https://your-portfolio.com)
 -->
@@ -79,36 +74,6 @@ Let’s turn data into something meaningful.
 ### 📊 Data Visualization & Dashboarding
 - **Tools**: Tableau, Kibana  
 - **Libraries**: Matplotlib, Seaborn, Plotly
-
----
-
-### 🧠 Tech Skills
-
-- 🐍 **Languages & Database**: Python, SQL, PostgreSQL  
-- 📊 **Data Analysis & Visualization**: Pandas, NumPy, Tableau, Seaborn, Matplotlib  
-- 🤖 **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, ANN, CNN, Clustering, Regression
-
----
-
-### 🧠 Tech Skills
-
-**🐍 Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**📊 Data Analysis & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-**🤖 Machine Learning & Deep Learning**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**🗄️ Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
