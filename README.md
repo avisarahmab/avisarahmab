@@ -17,7 +17,7 @@ Welcome to my GitHub profile. This is a space where I explore data, share projec
 
 - 🐍 **Languages & Database**: Python, SQL, PostgreSQL  
 - 📊 **Data Analysis & Visualization**: Pandas, NumPy, Tableau, Seaborn, Matplotlib  
-- 🤖 **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, ANN, CNN, Clustering, Regression
+- 🤖 Machine Learning: Classification, Regression, Clustering, Time Series Forecasting (ARIMA, SARIMAX), CNN, NLP, Computer Vision
 
 ---
 
