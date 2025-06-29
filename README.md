@@ -9,7 +9,7 @@ Welcome to my GitHub profile. This is a space where I explore data, share projec
 - 📌 **What I Do**: I explore data to uncover patterns, build models, and translate findings into meaningful insights.  
 - 🎓 **Learning Journey**: Graduated from the Hacktiv8 Full-Time Data Science Bootcamp, diving into EDA, forecasting, and machine learning.  
 - 🤖 **Deep Learning Exploration**: Gained hands-on experience with NLP and computer vision using neural networks like ANN and CNN.  
-- 🤝 **Let’s Collaborate**: I'm always excited to connect with others and build meaningful data projects — whether for learning, impact, or just curiosity.
+- 🤝 **Let’s Collaborate**: I'm always excited to connect with others and build meaningful data projects, whether it's for learning, impact, or curiosity.
 
 ---
 
@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 |--------|-------------|-------------|
 | 📊 `Sales Forecasting` | Time series model for predicting product demand | Python, SARIMAX, Plotly |
 | 🧠 `Customer Churn Prediction` | Classification model to identify potential churn | Python, Scikit-learn, Streamlit |
-| 📈 `EDA Dashboard` | Interactive Tableau dashboard for retail sales data | Tableau |
+| 📈 `EDA Dashboard` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Tableau |
 | 🤖 `NLP Text Classifier` | Multiclass text classification using TF-IDF and SVM | Python, Scikit-learn, NLTK |
 | 🖼️ `Image Classifier` | CNN model for plant disease classification | Python, TensorFlow, OpenCV |
 
