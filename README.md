@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
 
 ### 📫 Contact Me
 
-- 📧 Email: [avisarahma08@gmail.com]
+- 📧 Email: [avisarahma08@gmail.com](avisarahma08@gmail.com)
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
 
 <!--
@@ -58,23 +58,6 @@ Here are some of the projects I've worked on:
 Thanks for visiting! 🙌  
 Let’s turn data into something meaningful.
 
-
----
-
-### 💡 Data Analysis
-- **Techniques**: Exploratory Data Analysis (EDA)
-- **Tools & Platforms**: Python, SQL, PostgreSQL, Google BigQuery  
-- **Libraries**: Pandas, NumPy, Scipy, Feature-Engine  
-
-### 🤖 Data Science & Machine Learning
-- **Techniques**: Machine Learning, NLP, Computer Vision, Dimensionality Reduction  
-- **Algorithms**: Regression, Random Forest, Decision Trees, Clustering, Neural Networks  
-- **Libraries/Frameworks**: Scikit-learn, TensorFlow, Hugging Face  
-- **Deployment & Apps**: Streamlit  
-
-### 📊 Data Visualization & Dashboarding
-- **Tools**: Tableau, Kibana  
-- **Libraries**: Matplotlib, Seaborn, Plotly
 
 ---
 
