@@ -17,7 +17,7 @@ Welcome to my GitHub profile. This is a space where I explore data, share projec
 
 - 🐍 **Languages & Database**: Python, SQL, PostgreSQL  
 - 📊 **Data Analysis & Visualization**: Pandas, NumPy, Tableau, Seaborn, Matplotlib  
-- 🤖 Machine Learning: Classification, Regression, Clustering, Time Series Forecasting (ARIMA, SARIMAX), CNN, NLP, Computer Vision
+- 🤖 **Machine Learning**: Classification, Regression, Clustering, Time Series Forecasting (ARIMA, SARIMAX), CNN, NLP, Computer Vision
 
 ---
 
@@ -27,11 +27,9 @@ Here are some of the projects I've worked on:
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
-| 📈 `EDA Dashboard` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Tableau, matplotlib |
-| 📊 `Sales Forecasting` | Time series model for predicting product demand | Python, SARIMAX, Plotly |
-| 🧠 `Laptop Price Prediction Based on Specifications` | Regression model to help estimate fair pricing and support better purchase decisions. | Python, Scikit-learn, Streamlit |
-| 🤖 `NLP Text Classifier` | Multiclass text classification using TF-IDF and SVM | Python, Scikit-learn, NLTK |
-| 🖼️ `Image Classifier` | CNN model for plant disease classification | Python, TensorFlow, OpenCV |
+| 📈 `EDA Dashboard` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Matplotlib, Python, Tableau |
+| 🧠 `Laptop Price Prediction Based on Specifications` | Regression model to help estimate fair pricing and support better purchase decisions | Python, Scikit-learn, Streamlit |
+| 🖼️ `Image Classifier` | CNN model for plant disease classification | Python, TensorFlow |
 
 > ✨ *More projects coming soon!*
 
