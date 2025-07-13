@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
-| 📈 `EDA Dashboard` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Matplotlib, Python, Tableau |
+| 📈 `Sales Performance Analysis of Chocolate`[https://github.com/avisarahmab/Analisis-Kinerja-Penjualan-Cokelat.git] | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Matplotlib, Python, Tableau |
 | 🧠 `Laptop Price Prediction Based on Specifications` | Regression model to help estimate fair pricing and support better purchase decisions | Python, Scikit-learn, Scipy |
 | 🖼️ `Durian Leaf Disease Detection with CNN` | CNN model for plant disease classification | Python, TensorFlow, Keras |
 
