@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 | 📈 `Sales Performance Analysis of Chocolate` | Interactive Tableau dashboard for Sales Analysis of Chocolate Products | Matplotlib, Python, Tableau |
 | 🧠 `Laptop Price Prediction Based on Specifications` | Regression model to help estimate fair pricing and support better purchase decisions | Python, Scikit-learn, Scipy |
 | 🖼️ `Durian Leaf Disease Detection with CNN` | CNN model for plant disease classification | Python, TensorFlow, Keras |
-| 📊 `SalesBoost | Forecasting & Clustering to Optimize Sales Strategy (Collaborative Project) | Python, Scikit-learn, Statsmodels |
+| 📊 `SalesBoost` | Forecasting & Clustering to Optimize Sales Strategy (Collaborative Project) | Python, Scikit-learn, Statsmodels |
 
 > ✨ *More projects coming soon!*
 
@@ -43,7 +43,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 📫 Contact Me
+### 📫 How to Reach Me
 
 - 📧 Email: [avisarahma08@gmail.com](avisarahma08@gmail.com)
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)  
